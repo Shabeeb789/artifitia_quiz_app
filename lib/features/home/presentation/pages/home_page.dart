@@ -5,6 +5,9 @@ import 'package:flutter/material.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 class HomePage extends ConsumerWidget {
+  static const routePath = '/';
+  static const routeName = 'Home';
+
   const HomePage({super.key});
 
   @override

@@ -1,0 +1,147 @@
+[
+    {
+        "_id": "65681f06202f5bbc961962aa",
+        "question": "What is Flutter?",
+        "options": [
+            {
+                "text": "A programming language",
+                "isCorrect": false,
+                "_id": "65681f06202f5bbc961962ab"
+            },
+            {
+                "text": " A mobile development framework",
+                "isCorrect": true,
+                "_id": "65681f06202f5bbc961962ac"
+            },
+            {
+                "text": "An operating system",
+                "isCorrect": false,
+                "_id": "65681f06202f5bbc961962ad"
+            },
+            {
+                "text": "A cloud computing service",
+                "isCorrect": false,
+                "_id": "65681f06202f5bbc961962ae"
+            }
+        ],
+        "createdAt": "2023-11-30T05:35:02.483Z",
+        "updatedAt": "2023-11-30T05:35:02.483Z",
+        "__v": 0
+    },
+    {
+        "_id": "65681f7f202f5bbc961962b5",
+        "question": "Which programming language is primarily used for Flutter development?",
+        "options": [
+            {
+                "text": "Java",
+                "isCorrect": false,
+                "_id": "65681f7f202f5bbc961962b6"
+            },
+            {
+                "text": "Swift",
+                "isCorrect": false,
+                "_id": "65681f7f202f5bbc961962b7"
+            },
+            {
+                "text": "Dart",
+                "isCorrect": true,
+                "_id": "65681f7f202f5bbc961962b8"
+            },
+            {
+                "text": "Kotlin",
+                "isCorrect": false,
+                "_id": "65681f7f202f5bbc961962b9"
+            }
+        ],
+        "createdAt": "2023-11-30T05:37:03.121Z",
+        "updatedAt": "2023-11-30T05:37:03.121Z",
+        "__v": 0
+    },
+    {
+        "_id": "65681fff202f5bbc961962bb",
+        "question": "What is the purpose of the pubspec.yaml file in a Flutter project?",
+        "options": [
+            {
+                "text": "To store project metadata",
+                "isCorrect": false,
+                "_id": "65681fff202f5bbc961962bc"
+            },
+            {
+                "text": "To define project dependencies",
+                "isCorrect": true,
+                "_id": "65681fff202f5bbc961962bd"
+            },
+            {
+                "text": "To configure project themes",
+                "isCorrect": false,
+                "_id": "65681fff202f5bbc961962be"
+            },
+            {
+                "text": "To write unit tests",
+                "isCorrect": false,
+                "_id": "65681fff202f5bbc961962bf"
+            }
+        ],
+        "createdAt": "2023-11-30T05:39:11.542Z",
+        "updatedAt": "2023-11-30T05:39:11.542Z",
+        "__v": 0
+    },
+    {
+        "_id": "65682070202f5bbc961962c1",
+        "question": "What is the main function in a Flutter app?",
+        "options": [
+            {
+                "text": "runApp()",
+                "isCorrect": true,
+                "_id": "65682070202f5bbc961962c2"
+            },
+            {
+                "text": "mainApp()",
+                "isCorrect": false,
+                "_id": "65682070202f5bbc961962c3"
+            },
+            {
+                "text": "startApp()",
+                "isCorrect": false,
+                "_id": "65682070202f5bbc961962c4"
+            },
+            {
+                "text": "launchApp()",
+                "isCorrect": false,
+                "_id": "65682070202f5bbc961962c5"
+            }
+        ],
+        "createdAt": "2023-11-30T05:41:04.983Z",
+        "updatedAt": "2023-11-30T05:41:04.983Z",
+        "__v": 0
+    },
+    {
+        "_id": "6568210d202f5bbc961962c7",
+        "question": "Which widget is used to create a scrollable list of widgets in Flutter?",
+        "options": [
+            {
+                "text": "GridView",
+                "isCorrect": false,
+                "_id": "6568210d202f5bbc961962c8"
+            },
+            {
+                "text": "ListView",
+                "isCorrect": true,
+                "_id": "6568210d202f5bbc961962c9"
+            },
+            {
+                "text": "Column",
+                "isCorrect": false,
+                "_id": "6568210d202f5bbc961962ca"
+            },
+            {
+                "text": "Stack",
+                "isCorrect": false,
+                "_id": "6568210d202f5bbc961962cb"
+            }
+        ],
+        "createdAt": "2023-11-30T05:43:41.582Z",
+        "updatedAt": "2023-11-30T05:43:41.582Z",
+        "__v": 0
+    }
+]

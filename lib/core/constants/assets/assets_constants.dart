@@ -6,6 +6,7 @@ class AppAssets {
   static const _imagePath = 'assets/images/';
 
   final imgHome = '${_imagePath}img_home.png';
+  final imgCongratulation = '${_imagePath}img_congrats.png';
 }
 
 @riverpod
